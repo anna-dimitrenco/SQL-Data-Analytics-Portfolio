@@ -1,4 +1,3 @@
-USE 281125_dam_AnnaD;
 
 /* PROJECT: SQL Join Logic for Business Analytics
 AUTHOR: Anna Dimitrenco
